@@ -23,6 +23,7 @@
     "css-loader": "^5.2.6",
     "element-ui": "^2.15.2",
     "fast-levenshtein": "^3.0.0",
+    "lodash": "^4.17.21",
     "postcss-loader": "^6.1.0",
     "postcss-preset-env": "^6.7.0",
     "style-loader": "^2.0.0",
