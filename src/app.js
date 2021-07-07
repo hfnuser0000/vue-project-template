@@ -1,9 +1,9 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
-import Element from 'element-ui'
+import Element from 'element-ui';
+import 'element-ui/lib/theme-chalk/index.css';
 import AppMain from './App.vue';
 import Axios from 'axios';
-import './styles/element-ui.css';
 import './styles/layout.css';
 import _ from 'lodash';
 import store from './store';
